@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "d753d75e376aed28",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8a315b1b17275e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebb3d62a64db983d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gradient-Based Learning Applied to Document Recognition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gradient-Based Learning Applied to Document Recognition"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11843c3ca3813af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6ded4e14cf486ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbad1a39a12f6d98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b90b5359a6454515",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a04b7f6f398b591a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e8b2fe1157ad8c68",
+    "type": "split",
+    "children": [
+      {
+        "id": "37066d1803972adf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f509aa8a490abe8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gradient-Based Learning Applied to Document Recognition.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Gradient-Based Learning Applied to Document Recognition 的反向链接列表"
+            }
+          },
+          {
+            "id": "62f64c353e9483a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gradient-Based Learning Applied to Document Recognition.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Gradient-Based Learning Applied to Document Recognition 的出链列表"
+            }
+          },
+          {
+            "id": "ace557f56008c7d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a718be5e17ba491a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gradient-Based Learning Applied to Document Recognition.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gradient-Based Learning Applied to Document Recognition 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ebb3d62a64db983d",
+  "lastOpenFiles": [
+    "Gradient-Based Learning Applied to Document Recognition.md"
+  ]
+}
