@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ImageNet Classification with Deep Convolutional Neural Networks.md",
+                "file": "Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ImageNet Classification with Deep Convolutional Neural Networks"
+              "title": "Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 319.5
   },
   "right": {
     "id": "e8b2fe1157ad8c68",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ImageNet Classification with Deep Convolutional Neural Networks.md",
+                "file": "Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ImageNet Classification with Deep Convolutional Neural Networks 的反向链接列表"
+              "title": "Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ImageNet Classification with Deep Convolutional Neural Networks.md",
+                "file": "Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ImageNet Classification with Deep Convolutional Neural Networks 的出链列表"
+              "title": "Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ImageNet Classification with Deep Convolutional Neural Networks.md",
+                "file": "Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ImageNet Classification with Deep Convolutional Neural Networks 的大纲"
+              "title": "Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift 的大纲"
             }
           }
         ]
@@ -170,9 +170,13 @@
   },
   "active": "ebb3d62a64db983d",
   "lastOpenFiles": [
-    "images/AlexNetLRN.drawio.svg",
     "Gradient-Based Learning Applied to Document Recognition.md",
+    "Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation.md",
+    "Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift.md",
     "ImageNet Classification with Deep Convolutional Neural Networks.md",
+    "VERY DEEP CONVOLUTIONAL NETWORKSFOR LARGE-SCALE IMAGE RECOGNITION.md",
+    "images/VGGNetConfig.png",
+    "images/AlexNetLRN.drawio.svg",
     "images/AlexNetMultiGPU.drawio.svg",
     "images"
   ]
