@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift.md",
+                "file": "Densely Connected Convolutional Networks‌.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift"
+              "title": "Densely Connected Convolutional Networks‌"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 357.5
   },
   "right": {
     "id": "e8b2fe1157ad8c68",
@@ -170,11 +170,18 @@
   },
   "active": "ebb3d62a64db983d",
   "lastOpenFiles": [
-    "Gradient-Based Learning Applied to Document Recognition.md",
-    "Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation.md",
-    "Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift.md",
+    "未命名.md",
+    "Densely Connected Convolutional Networks‌.md",
     "ImageNet Classification with Deep Convolutional Neural Networks.md",
+    "Convolutional Block Attention Module.md",
+    "Squeeze-and-Excitation Networks.md",
+    "Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift.md",
+    "Squeeze-and-Excitation Networks.txt",
+    "Deep Residual Learning for Image Recognition.md",
+    "Gradient-Based Learning Applied to Document Recognition.md",
     "VERY DEEP CONVOLUTIONAL NETWORKSFOR LARGE-SCALE IMAGE RECOGNITION.md",
+    "Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation.md",
+    "MLPaper.code-workspace",
     "images/VGGNetConfig.png",
     "images/AlexNetLRN.drawio.svg",
     "images/AlexNetMultiGPU.drawio.svg",
